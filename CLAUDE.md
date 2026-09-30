@@ -9,7 +9,8 @@ profile as structural inspiration. This supersedes the original four-line
 README limit. Keep the result concise, personal and consistent with BLD8:
 
 - A restrained light/dark SVG banner, clear introduction and direct links.
-- Selected work with live demos, source or case studies where available.
+- Selected work with live demos and website links. The user asked to omit Coffee
+  Docket and source-repository links from the profile; keep those omissions.
 - Subtle coverage of UI engineering, React/Angular component-library maintenance,
   .NET/C#, broader web/mobile interests and AI research.
 - Plain, factual descriptions. No employer details, hiring language, badge walls,

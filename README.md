@@ -17,19 +17,13 @@ BLD8 is where I build personal projects and work through the details.
 
 A React component library built on Base UI, with a live showcase for controls, layouts and motion. First edition.
 
-[Playground](https://bld8-ui.vercel.app) · [Source](https://github.com/jaskevs/bld8-ui)
+[Playground](https://bld8-ui.vercel.app)
 
 ### The BLD8 website
 
 A home for projects and their write-ups. Next.js, React and handwritten CSS.
 
-[Website](https://www.bld8.dev) · [Source](https://github.com/jaskevs/bld8-web)
-
-### Coffee Docket
-
-Prepaid coffee credits, with separate flows for staff and customers. A previous project.
-
-[Case study](https://www.bld8.dev/work/coffee-docket)
+[Website](https://www.bld8.dev)
 
 ## Engineering interests
 
@@ -39,7 +33,7 @@ Prepaid coffee credits, with separate flows for staff and customers. A previous 
 
 ## On the bench
 
-**[BLD8 Workbench](https://github.com/jaskevs/bld8-workbench)** is a planned tool for following AI requests through sources, model calls, tools and cost. Project notes and draft architecture are available; implementation hasn't started.
+**BLD8 Workbench** is a planned tool for following AI requests through sources, model calls, tools and cost. Project notes and draft architecture are available; implementation hasn't started.
 
 ---
 
