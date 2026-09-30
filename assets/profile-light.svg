@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">BLD8 — Interfaces, systems and notes to self.</title>
+  <desc id="desc">A minimal light-grey banner with crisp white interface panels, a lime accent and a small dotted arrow.</desc>
+  <rect width="1200" height="340" rx="8" fill="#F3F4F2"/>
+  <g font-family="Arial, Helvetica, sans-serif" fill="#191B18">
+    <text x="48" y="51" font-size="13" font-weight="700" letter-spacing="2">BLD8 / SOFTWARE &amp; EXPERIMENTS</text>
+    <text x="46" y="149" font-size="62" font-weight="600" letter-spacing="-2.5">Interfaces, systems</text>
+    <text x="46" y="218" font-size="62" font-weight="600" letter-spacing="-2.5">&amp; notes to self.</text>
+    <text x="48" y="297" font-family="Consolas, monospace" font-size="13" letter-spacing="1.5" fill="#5B6058">MELBOURNE, AUSTRALIA</text>
+  </g>
+  <path d="M728.5 40V300" stroke="#D6DAD3"/>
+  <rect x="778" y="61" width="374" height="218" rx="8" fill="#FFFFFF"/>
+  <path d="M802 102.5H1128" stroke="#E6E9E2"/>
+  <g fill="#7A8175">
+    <circle cx="805" cy="82" r="3"/>
+    <circle cx="817" cy="82" r="3"/>
+    <circle cx="829" cy="82" r="3"/>
+  </g>
+  <rect x="802" y="124" width="88" height="131" rx="4" fill="#F3F4F2"/>
+  <path d="M818 144H865M818 160H852M818 176H858" stroke="#B0B6AA" stroke-width="3"/>
+  <rect x="910" y="124" width="218" height="59" rx="4" fill="#D1FE17"/>
+  <path d="M928 145H1000M928 161H973" stroke="#191B18" stroke-width="4"/>
+  <rect x="910" y="199" width="101" height="56" rx="4" fill="#F3F4F2"/>
+  <path d="M928 216H975M928 237H957" stroke="#A0A798" stroke-width="3"/>
+  <rect x="1027" y="199" width="101" height="56" rx="4" fill="#191B18"/>
+  <g fill="#D1FE17">
+    <circle cx="1069" cy="227" r="2"/>
+    <circle cx="1077" cy="227" r="2"/>
+    <circle cx="1085" cy="219" r="2"/>
+    <circle cx="1085" cy="235" r="2"/>
+    <circle cx="1093" cy="227" r="2"/>
+  </g>
+</svg>
